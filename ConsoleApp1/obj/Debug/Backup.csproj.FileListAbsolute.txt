@@ -1,0 +1,7 @@
+C:\Users\Gabriella.DESKTOP-N48T8BG\source\repos\BackupApp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Gabriella.DESKTOP-N48T8BG\source\repos\BackupApp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Gabriella.DESKTOP-N48T8BG\source\repos\BackupApp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Gabriella.DESKTOP-N48T8BG\source\repos\BackupApp\ConsoleApp1\obj\Debug\Backup.csprojAssemblyReference.cache
+C:\Users\Gabriella.DESKTOP-N48T8BG\source\repos\BackupApp\ConsoleApp1\obj\Debug\Backup.csproj.CoreCompileInputs.cache
+C:\Users\Gabriella.DESKTOP-N48T8BG\source\repos\BackupApp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Gabriella.DESKTOP-N48T8BG\source\repos\BackupApp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
